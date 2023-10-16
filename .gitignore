@@ -1,0 +1,11 @@
+/node_modules
+/.env
+/config/*.js
+!/config/default.js
+!/config/test.js
+/logs
+/logs/app-*.log
+/cookies.json
+/cookies.txt
+/dist
+/coverage
