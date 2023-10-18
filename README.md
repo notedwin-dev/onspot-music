@@ -66,6 +66,8 @@ Encounter an issue? Open an issue in this repository or join my [Discord server]
 
 This project is made possible by using [discord.js](https://github.com/discordjs/discord.js/) and [discord-player](https://github.com/Androz2091/discord-player).
 
+Original Source: [Cadence Music Bot](https://github.com/mariusbegby/cadence-discord-bot)
+
 ### Contributors
 
 <table>
