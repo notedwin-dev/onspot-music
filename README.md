@@ -67,3 +67,15 @@ Encounter an issue? Open an issue in this repository or join my [Discord server]
 This project is made possible by using [discord.js](https://github.com/discordjs/discord.js/) and [discord-player](https://github.com/Androz2091/discord-player).
 
 ### Contributors
+
+<table>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/notedwin-dev>
+            <img src=https://avatars.githubusercontent.com/u/54582223?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Edwin Ng/>
+            <br />
+            <sub style="font-size:14px"><b>Edwin Ng</b></sub>
+        </a>
+    </td>
+</tr>
+</table>
